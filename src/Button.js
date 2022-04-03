@@ -18,11 +18,6 @@ const Loading = styled.span`
   opacity: 0;
 `;
 
-const StyledButton = styled.button`
-  border: 10px solid red;
-  font-size: 20px;
-`;
-
 const APPEARANCES = {
   PRIMARY: 'primary',
   PRIMARY_OUTLINE: 'primaryOutline',
@@ -38,9 +33,11 @@ const SIZES = {
 };
 
 const StyledButton = styled.button`
-  border: 0;
+  //border: 0;
   border-radius: 3em;
   cursor: pointer;
+  border: 10px solid red;
+  font-size: 20px;
   display: inline-block;
   overflow: hidden;
   padding: ${props => (props.size === SIZES.SMALL ? '8px 16px' : '13px 20px')};
@@ -55,9 +52,11 @@ const StyledButton = styled.button`
   opacity: 1;
   margin: 0;
   background: transparent;
+  
+  
 
 
-  font-size: ${props => (props.size === SIZES.SMALL ? typography.size.s1 : typography.size.s2)}px;
+  //font-size: ${props => (props.size === SIZES.SMALL ? typography.size.s1 : typography.size.s2)}px;
   font-weight: ${typography.weight.extrabold};
   line-height: 1;
 
