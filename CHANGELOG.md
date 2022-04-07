@@ -1,3 +1,22 @@
+# v0.1.4 (Thu Apr 07 2022)
+
+#### 🐛 Bug Fix
+
+- changed version [#9](https://github.com/0ReC0/learnstorybook-design-system/pull/9) ([@0ReC0](https://github.com/0ReC0))
+- Changed npm package to public view [#8](https://github.com/0ReC0/learnstorybook-design-system/pull/8) ([@0ReC0](https://github.com/0ReC0))
+
+#### ⚠️ Pushed to `main`
+
+- Merge remote-tracking branch 'origin/workflow' into workflow (kitanin.ser@mail.ru)
+- deleted auto options (kitanin.ser@mail.ru)
+
+#### Authors: 2
+
+- [@0ReC0](https://github.com/0ReC0)
+- Kitanin Sergei (kitanin.ser@mail.ru)
+
+---
+
 # v0.1.3 (Thu Apr 07 2022)
 
 #### 🐛 Bug Fix
