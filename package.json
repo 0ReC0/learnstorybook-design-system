@@ -1,7 +1,7 @@
 {
   "name": "@0rec0/rec-learnstorybook-design-system",
   "description": "Storybook design systems tutorial",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "license": "MIT",
   "main": "dist/index.js",
   "repository": "https://github.com/0rec0/learnstorybook-design-system.git",
