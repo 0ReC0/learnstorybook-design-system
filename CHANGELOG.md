@@ -1,6 +1,6 @@
 # v0.1.2 (Thu Apr 07 2022)
 
-
+- fixed workflow for auto lib
 
 ---
 
