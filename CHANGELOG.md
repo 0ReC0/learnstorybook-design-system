@@ -1,3 +1,15 @@
+# v0.1.13 (Fri Apr 08 2022)
+
+#### 🐛 Bug Fix
+
+- deleted publish folder [#19](https://github.com/0ReC0/learnstorybook-design-system/pull/19) ([@0ReC0](https://github.com/0ReC0))
+
+#### Authors: 1
+
+- [@0ReC0](https://github.com/0ReC0)
+
+---
+
 # v0.1.12 (Fri Apr 08 2022)
 
 #### 🐛 Bug Fix
