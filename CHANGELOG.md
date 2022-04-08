@@ -1,3 +1,19 @@
+# v0.1.11 (Sat Apr 09 2022)
+
+#### 🐛 Bug Fix
+
+- Workflow [#17](https://github.com/0ReC0/learnstorybook-design-system/pull/17) ([@0ReC0](https://github.com/0ReC0))
+- ci skip [#16](https://github.com/0ReC0/learnstorybook-design-system/pull/16) ([@0ReC0](https://github.com/0ReC0))
+- added reg [#15](https://github.com/0ReC0/learnstorybook-design-system/pull/15) ([@0ReC0](https://github.com/0ReC0))
+- Workflow [#14](https://github.com/0ReC0/learnstorybook-design-system/pull/14) ([@0ReC0](https://github.com/0ReC0))
+- Workflow [#12](https://github.com/0ReC0/learnstorybook-design-system/pull/12) ([@0ReC0](https://github.com/0ReC0))
+
+#### Authors: 1
+
+- [@0ReC0](https://github.com/0ReC0)
+
+---
+
 # v0.1.10 (Sat Apr 09 2022)
 
 #### 🐛 Bug Fix
