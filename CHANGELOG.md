@@ -1,3 +1,20 @@
+# v0.1.10 (Sat Apr 09 2022)
+
+#### 🐛 Bug Fix
+
+- ci skip [#16](https://github.com/0ReC0/learnstorybook-design-system/pull/16) ([@0ReC0](https://github.com/0ReC0))
+- added reg [#15](https://github.com/0ReC0/learnstorybook-design-system/pull/15) ([@0ReC0](https://github.com/0ReC0))
+- Disabled chromatic for time [#14](https://github.com/0ReC0/learnstorybook-design-system/pull/14) ([@0ReC0](https://github.com/0ReC0))
+- Added npm plugin [#14](https://github.com/0ReC0/learnstorybook-design-system/pull/14) ([@0ReC0](https://github.com/0ReC0))
+- change [#12](https://github.com/0ReC0/learnstorybook-design-system/pull/12) ([@0ReC0](https://github.com/0ReC0))
+- Merge branch 'main' into workflow [#12](https://github.com/0ReC0/learnstorybook-design-system/pull/12) ([@0ReC0](https://github.com/0ReC0))
+
+#### Authors: 1
+
+- [@0ReC0](https://github.com/0ReC0)
+
+---
+
 # v0.1.8 (Fri Apr 08 2022)
 
 #### 🐛 Bug Fix
