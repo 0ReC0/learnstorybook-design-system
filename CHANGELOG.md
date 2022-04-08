@@ -1,3 +1,15 @@
+# v0.1.12 (Fri Apr 08 2022)
+
+#### 🐛 Bug Fix
+
+- Workflow [#18](https://github.com/0ReC0/learnstorybook-design-system/pull/18) ([@0ReC0](https://github.com/0ReC0))
+
+#### Authors: 1
+
+- [@0ReC0](https://github.com/0ReC0)
+
+---
+
 # v0.1.11 (Sat Apr 09 2022)
 
 #### 🐛 Bug Fix
