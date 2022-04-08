@@ -84,5 +84,6 @@
       "npm"
     ],
     "onlyPublishWithReleaseLabel": true
-  }
+  },
+  "version": "0.1.4--canary.b67eae1.0"
 }
