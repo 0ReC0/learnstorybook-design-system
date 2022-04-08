@@ -78,12 +78,10 @@
     "cross-env": "^7.0.3",
     "prettier": "^2.6.1"
   },
-  "author": "0ReC0 <kitanin.ser@mail.ru>",
-  "auto": {
-    "plugins": [
-      "npm"
-    ],
-    "onlyPublishWithReleaseLabel": false
-  },
-  "version": "0.1.5"
+  "author": "0rec0 <kitanin.ser@mail.ru>",
+  "name": "@0rec0/learnstorybook-design-system",
+  "version": "0.1.7",
+  "description": "Storybook-desygn-system",
+  "repository": "https://github.com/0ReC0/learnstorybook-design-system.git",
+  "license": "MIT"
 }
