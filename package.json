@@ -1,11 +1,5 @@
 {
-  "name": "@0rec0/rec-learnstorybook-design-system",
-  "description": "Storybook design systems tutorial",
-  "version": "0.1.4",
-  "license": "MIT",
   "main": "dist/index.js",
-  "repository": "https://github.com/0rec0/learnstorybook-design-system.git",
-  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
