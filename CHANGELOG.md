@@ -1,3 +1,20 @@
+# v0.1.8 (Fri Apr 08 2022)
+
+#### 🐛 Bug Fix
+
+- release [#11](https://github.com/0ReC0/learnstorybook-design-system/pull/11) ([@0ReC0](https://github.com/0ReC0))
+- Workflow [#10](https://github.com/0ReC0/learnstorybook-design-system/pull/10) ([@0ReC0](https://github.com/0ReC0))
+
+#### ⚠️ Pushed to `main`
+
+- Merge branch 'workflow' into main ([@0ReC0](https://github.com/0ReC0))
+
+#### Authors: 1
+
+- [@0ReC0](https://github.com/0ReC0)
+
+---
+
 # v0.1.4 (Fri Apr 08 2022)
 
 #### 🐛 Bug Fix
