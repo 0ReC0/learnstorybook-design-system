@@ -83,7 +83,7 @@
     "plugins": [
       "npm"
     ],
-    "onlyPublishWithReleaseLabel": true
+    "onlyPublishWithReleaseLabel": false
   },
   "version": "0.1.5"
 }
